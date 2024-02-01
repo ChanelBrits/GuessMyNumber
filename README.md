@@ -24,4 +24,8 @@ Welcome to the Guess My Number Game! 🚀 Test your psychic skills and discover 
 - **Visual Feedback:** The background color changes when you guess correctly, providing a visual indication of your success.
 - **Invalid Input Handling:** The game safeguards against invalid numbers, ensuring a smooth experience.
 
+## 👾 Demo
+
+![](https://github.com/ChanelBrits/GuessMyNumber/blob/main/GuessMyNumber.gif)
+
 Have fun and enjoy the challenge! 🧙✨
